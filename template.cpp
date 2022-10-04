@@ -3,6 +3,9 @@
 #define ll long long int
 #define vi vector<int>
 #define vc vector<char>
+#define vii vector<vector<int>>
+#define vcc vector<vector<char>>
+
 #define vll vector<ll>
 #define vpp vector<pair<ll, ll>>
 
